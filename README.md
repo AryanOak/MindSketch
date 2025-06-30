@@ -21,4 +21,9 @@
 
 ---
 
+## Getting Started
+
+git clone https://github.com/your-username/MindSketch.git
+cd MindSketch
+
 
