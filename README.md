@@ -26,7 +26,7 @@
 
 1. **Clone the repo**  
    ```bash
-    git clone https://github.com/your-username/MindSketch.git
+    git clone https://github.com/AryanOak/MindSketch.git
 
 
 
