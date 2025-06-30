@@ -9,9 +9,9 @@
 
 ## Features
 
-- 🎨 **Emotion to Image**: Input feelings or events — AI returns a matching image.
-- ⚡ **Fast Generation** using Hugging Face inference models.
-- 📥 **Download Option**: Easily save your generated artwork.
+- **Emotion to Image**: Input feelings or events — AI returns a matching image.
+- **Fast Generation** using Hugging Face inference models.
+- **Download Option**: Easily save your generated artwork.
 
 ---
 
@@ -21,9 +21,13 @@
 
 ---
 
+
 ## Getting Started
 
-git clone https://github.com/your-username/MindSketch.git
-cd MindSketch
+1. **Clone the repo**  
+   ```bash
+    git clone https://github.com/your-username/MindSketch.git
+    cd MindSketch
+
 
 
